@@ -1,0 +1,8 @@
+{
+  "name": "simulate-e2e-behaviour",
+  "description": "really solid app",
+  "version": "1.0.0",
+  "engines": {
+    "node": "14.x"
+  }
+}
